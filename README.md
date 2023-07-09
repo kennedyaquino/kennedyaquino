@@ -1,23 +1,33 @@
-## 👨‍💻 Desenvolvedor de Software
+## 👨‍💻 Software Developer
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor de software dedicado, sempre em busca de novos desafios e oportunidades para criar soluções inovadoras.
+Welcome to my profile! I'm a dedicated software developer, always looking for new challenges and opportunities to create innovative solutions.
 
-## 💡 Habilidades Técnicas
+## 💡 Skills
 
-- Desenvolvimento de Software: Java | Spring boot | Maven
-- Arquitetura de Software: Design Patterns | SOLID | Clean Architecture 
-- Gerenciamento de Projetos: Scrum | Kanban
-- Banco de Dados: MySQL | PostgreSQL | MongoDB
-- Testes e Depuração: JUnit | TDD | BDD
+- Software development: Java | Spring boot | Maven | React | React Native
+- Software Architecture: Design Patterns | SOLID | Clean Architecture 
+- Project management: Scrum | Kanban
+- Databases: MySQL | PostgreSQL | MongoDB
+- Testing and Debugging: JUnit | TDD | BDD
 - AWS (Amazon Web Services): EC2 | S3
-- Docker: Criação e gerenciamento de containers
-- Colaboração e Comunicação: Trabalho em equipe | Compartilhamento de conhecimento | Comunicação clara | Escuta ativa
+- Docker: Container creation and management
+- Collaboration and Communication: Team work | Knowledge sharing | Clear communication 
 
-## 📚 Aprendizado Contínuo
+## 📚 Continuous Learning
 
-Acredito que a aprendizagem é um processo contínuo e, como desenvolvedor de software, estou sempre buscando me aprimorar.
+I believe that learning is a continuous process and, as a software developer, I am always looking to improve myself.
 
-## 💪 Objetivo Profissional
+## 💪 Professional Goal
 
-Estou em busca de desafios estimulantes que me permitam aplicar minha experiência e habilidades técnicas na criação de soluções inovadoras. Procuro colaborar com equipes talentosas, contribuindo para o desenvolvimento de projetos de sucesso e fazendo a diferença na vida das pessoas por meio da tecnologia.
+I'm looking for exciting challenges that allow me to apply my experience and technical skills to create innovative solutions. I seek to collaborate with talented teams, contributing to the development of successful projects and making a difference in people's lives through technology.
+
+<div align="center">
+    <p><strong>Contact channels</strong></p>
+    <a href="mailto:kennedys94@hotmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="www.linkedin.com/in/kennedy-aquino-b8a70a1b2" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+</div>
 
