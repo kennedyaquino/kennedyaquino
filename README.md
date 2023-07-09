@@ -21,13 +21,4 @@ I believe that learning is a continuous process and, as a software developer, I 
 
 I'm looking for exciting challenges that allow me to apply my experience and technical skills to create innovative solutions. I seek to collaborate with talented teams, contributing to the development of successful projects and making a difference in people's lives through technology.
 
-<div align="center">
-    <p><strong>Contact channels</strong></p>
-    <a href="mailto:kennedys94@hotmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="www.linkedin.com/in/kennedy-aquino-b8a70a1b2" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-</div>
 
