@@ -1,16 +1,23 @@
-### Hi there 👋
+## 👨‍💻 Desenvolvedor de Software
 
-<!--
-**kennedyaquino/kennedyaquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Sou um desenvolvedor de software dedicado, sempre em busca de novos desafios e oportunidades para criar soluções inovadoras.
 
-Here are some ideas to get you started:
+## 💡 Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento de Software: Java | Spring boot | Maven
+- Arquitetura de Software: Design Patterns | SOLID | Clean Architecture 
+- Gerenciamento de Projetos: Scrum | Kanban
+- Banco de Dados: MySQL | PostgreSQL | MongoDB
+- Testes e Depuração: JUnit | TDD | BDD
+- AWS (Amazon Web Services): EC2 | S3
+- Docker: Criação e gerenciamento de containers
+- Colaboração e Comunicação: Trabalho em equipe | Compartilhamento de conhecimento | Comunicação clara | Escuta ativa
+
+## 📚 Aprendizado Contínuo
+
+Acredito que a aprendizagem é um processo contínuo e, como desenvolvedor de software, estou sempre buscando me aprimorar.
+
+## 💪 Objetivo Profissional
+
+Estou em busca de desafios estimulantes que me permitam aplicar minha experiência e habilidades técnicas na criação de soluções inovadoras. Procuro colaborar com equipes talentosas, contribuindo para o desenvolvimento de projetos de sucesso e fazendo a diferença na vida das pessoas por meio da tecnologia.
+
