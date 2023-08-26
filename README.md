@@ -1,24 +1,20 @@
-## 👨‍💻 Software Developer
+## Olá, eu sou Kennedy Aquino!👋
 
-Welcome to my profile! I'm a dedicated software developer, always looking for new challenges and opportunities to create innovative solutions.
+### Sobre mim
+Sou um desenvolvedor de software dedicado com experiência em várias linguagens de programação e tecnologias. Meu principal objetivo é criar soluções inovadoras, eficientes e escaláveis que resolvam problemas reais e melhorem a experiência do usuário.
 
-## 💡 Skills
+### Minhas principais habilidades
+- Linguagens: Java, Javascript, Typescript.
+- Tecnologias: Spring boot, React, Angular, NodeJS. 
+- Bancos de dados: MySQL, PostgreSQL, MongoDB.
+- Ferramentas: Git, Github, Docker, AWS.
+- Gerenciamento de projetos: Scrum, Kanban.
 
-- Software development: Java | Spring boot | Maven | React | React Native
-- Software Architecture: Design Patterns | SOLID | Clean Architecture 
-- Project management: Scrum | Kanban
-- Databases: MySQL | PostgreSQL | MongoDB
-- Testing and Debugging: JUnit | TDD | BDD
-- AWS (Amazon Web Services): EC2 | S3
-- Docker: Container creation and management
-- Collaboration and Communication: Team work | Knowledge sharing | Clear communication 
+### Contato
+- 📧 Email: kennedyaquino.contato@gmail.com
+- 🌐 Site: https://kennedyaquino-portfolio.netlify.app/
+- 💼 LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/kennedy-aquino-b8a70a1b2/)
 
-## 📚 Continuous Learning
-
-I believe that learning is a continuous process and, as a software developer, I am always looking to improve myself.
-
-## 💪 Professional Goal
-
-I'm looking for exciting challenges that allow me to apply my experience and technical skills to create innovative solutions. I seek to collaborate with talented teams, contributing to the development of successful projects and making a difference in people's lives through technology.
+Estou sempre aberto a novas oportunidades e colaborar em projetos interessantes! Sinta-se à vontade para entrar em contato comigo se quiser discutir ideias ou trabalhar juntos.
 
 
