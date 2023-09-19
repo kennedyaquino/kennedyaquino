@@ -15,6 +15,4 @@ Sou um desenvolvedor de software dedicado com experiência em várias linguagens
 - 🌐 Site: https://kennedyaquino-portfolio.netlify.app/
 - 💼 LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/kennedy-aquino-b8a70a1b2/)
 
-Estou sempre aberto a novas oportunidades e colaborar em projetos interessantes! Sinta-se à vontade para entrar em contato comigo se quiser discutir ideias ou trabalhar juntos.
-
 
