@@ -12,6 +12,6 @@ Sou um desenvolvedor de software dedicado com conhecimento em várias linguagens
 
 ### Contato
 - 📧 Email: kennedyaquino.contato@gmail.com
-- 💼 LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/kennedy-aquino-b8a70a1b2/)
+- 💼 LinkedIn: [Kennedy Aquino](https://www.linkedin.com/in/kennedy-aquino-b8a70a1b2/)
 
 
