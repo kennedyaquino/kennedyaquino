@@ -1,4 +1,4 @@
-## Olá, eu sou Kennedy Aquino!👋
+## Olá, eu sou Kennedy Aquino.
 
 ### Sobre mim
 Sou um desenvolvedor de software dedicado com conhecimento em várias linguagens de programação e tecnologias. Meu principal objetivo é criar soluções inovadoras, eficientes e escaláveis que resolvam problemas reais e melhorem a experiência do usuário.
